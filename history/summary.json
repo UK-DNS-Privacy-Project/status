@@ -4,7 +4,7 @@
     "url": "https://dnsprivacy.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/dnsprivacy.org.uk.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 93,
     "timeMonth": 93,
     "timeYear": 93,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-22": 0
+    }
   },
   {
     "name": "ns1.dnsprivacy.org.uk",
@@ -113,19 +115,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "resolver-2-dnsprivacy-org-uk-dns",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 9,
     "timeDay": 9,
     "timeWeek": 9,
     "timeMonth": 9,
     "timeYear": 9,
-    "dailyMinutesDown": {
-      "2025-01-22": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "resolver-2.dnsprivacy.org.uk (DoH)",
@@ -133,19 +133,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/resolver-2.dnsprivacy.org.uk.ico",
     "slug": "resolver-2-dnsprivacy-org-uk-do-h",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 83,
     "timeDay": 83,
     "timeWeek": 83,
     "timeMonth": 83,
     "timeYear": 83,
-    "dailyMinutesDown": {
-      "2025-01-22": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "resolver-2.dnsprivacy.org.uk (DoT)",
@@ -153,19 +151,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "resolver-2-dnsprivacy-org-uk-do-t",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 9,
     "timeDay": 9,
     "timeWeek": 9,
     "timeMonth": 9,
     "timeYear": 9,
-    "dailyMinutesDown": {
-      "2025-01-22": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "resolver.dnsprivacy.org.uk (DNS)",
