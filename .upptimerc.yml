@@ -74,7 +74,7 @@ sites:
 
 status-website:
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/UK-DNS-Privacy-Project/status/refs/heads/master/assets/logo.png
   name: UK DNS Privacy Project
   introTitle: "UK DNS Privacy Project Service Status"
   introMessage: Welcome to the dnsprivacy.org.uk status page. Here you can monitor the uptime and availability of our privacy-first DNS services. We are committed to providing a reliable and secure experience, and this page ensures complete transparency about our service performance.
