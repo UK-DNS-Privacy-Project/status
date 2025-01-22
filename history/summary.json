@@ -112,37 +112,39 @@
     "url": "resolver-2.dnsprivacy.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "resolver-2-dnsprivacy-org-uk-dns",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 9,
     "timeDay": 9,
     "timeWeek": 9,
     "timeMonth": 9,
     "timeYear": 9,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-22": 0
+    }
   },
   {
     "name": "resolver-2.dnsprivacy.org.uk (DoH)",
     "url": "https://resolver-2.dnsprivacy.org.uk/dns-query?dns=AAABAAABAAAAAAABCW5sbmV0bGFicwJubAAAHAABAAApEAAAAIAAAAA",
     "icon": "https://icons.duckduckgo.com/ip3/resolver-2.dnsprivacy.org.uk.ico",
     "slug": "resolver-2-dnsprivacy-org-uk-do-h",
-    "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "98.94%",
-    "uptimeYear": "98.94%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 83,
     "timeDay": 83,
     "timeWeek": 83,
     "timeMonth": 83,
     "timeYear": 83,
     "dailyMinutesDown": {
-      "2025-01-22": 15
+      "2025-01-22": 0
     }
   },
   {
@@ -150,18 +152,20 @@
     "url": "resolver-2.dnsprivacy.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "resolver-2-dnsprivacy-org-uk-do-t",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 9,
     "timeDay": 9,
     "timeWeek": 9,
     "timeMonth": 9,
     "timeYear": 9,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-22": 0
+    }
   },
   {
     "name": "resolver.dnsprivacy.org.uk (DNS)",
