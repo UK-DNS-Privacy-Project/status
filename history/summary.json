@@ -4,18 +4,20 @@
     "url": "https://dnsprivacy.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/dnsprivacy.org.uk.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 96,
+    "timeDay": 97,
     "timeWeek": 95,
     "timeMonth": 95,
     "timeYear": 95,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-24": 0
+    }
   },
   {
     "name": "ns1.dnsprivacy.org.uk",
@@ -83,7 +85,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 80,
-    "timeDay": 79,
+    "timeDay": 80,
     "timeWeek": 80,
     "timeMonth": 80,
     "timeYear": 80,
@@ -191,7 +193,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 82,
-    "timeDay": 80,
+    "timeDay": 82,
     "timeWeek": 82,
     "timeMonth": 82,
     "timeYear": 82,
