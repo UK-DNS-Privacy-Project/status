@@ -1,7 +1,7 @@
 url: https://resolver-2.dnsprivacy.org.uk/dns-query?dns=AAABAAABAAAAAAABCW5sbmV0bGFicwJubAAAHAABAAApEAAAAIAAAAA
-status: down
-code: 403
-responseTime: 77
-lastUpdated: 2025-01-27T08:30:39.841Z
+status: up
+code: 200
+responseTime: 178
+lastUpdated: 2025-01-27T08:40:15.288Z
 startTime: 2025-01-21T12:10:03.846Z
 generator: Upptime <https://github.com/upptime/upptime>
