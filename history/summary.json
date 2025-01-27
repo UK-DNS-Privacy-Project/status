@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 91,
+    "timeDay": 92,
     "timeWeek": 94,
     "timeMonth": 94,
     "timeYear": 94,
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 81,
-    "timeDay": 81,
-    "timeWeek": 81,
-    "timeMonth": 81,
-    "timeYear": 81,
+    "time": 80,
+    "timeDay": 80,
+    "timeWeek": 80,
+    "timeMonth": 80,
+    "timeYear": 80,
     "dailyMinutesDown": {}
   },
   {
@@ -112,9 +112,9 @@
     "url": "resolver-2.dnsprivacy.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "resolver-2-dnsprivacy-org-uk-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,34 +123,38 @@
     "timeWeek": 9,
     "timeMonth": 9,
     "timeYear": 9,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-27": 0
+    }
   },
   {
     "name": "resolver-2.dnsprivacy.org.uk (DoH)",
     "url": "https://resolver-2.dnsprivacy.org.uk/dns-query?dns=AAABAAABAAAAAAABCW5sbmV0bGFicwJubAAAHAABAAApEAAAAIAAAAA",
     "icon": "https://icons.duckduckgo.com/ip3/resolver-2.dnsprivacy.org.uk.ico",
     "slug": "resolver-2-dnsprivacy-org-uk-do-h",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 85,
-    "timeDay": 85,
+    "timeDay": 84,
     "timeWeek": 85,
     "timeMonth": 85,
     "timeYear": 85,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-27": 0
+    }
   },
   {
     "name": "resolver-2.dnsprivacy.org.uk (DoT)",
     "url": "resolver-2.dnsprivacy.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "resolver-2-dnsprivacy-org-uk-do-t",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,16 +163,18 @@
     "timeWeek": 9,
     "timeMonth": 9,
     "timeYear": 9,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-27": 0
+    }
   },
   {
     "name": "resolver.dnsprivacy.org.uk (DNS)",
     "url": "resolver.dnsprivacy.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "resolver-dnsprivacy-org-uk-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -177,7 +183,9 @@
     "timeWeek": 9,
     "timeMonth": 9,
     "timeYear": 9,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-27": 0
+    }
   },
   {
     "name": "resolver.dnsprivacy.org.uk (DoH)",
@@ -191,7 +199,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 85,
-    "timeDay": 78,
+    "timeDay": 79,
     "timeWeek": 85,
     "timeMonth": 85,
     "timeYear": 85,
@@ -202,9 +210,9 @@
     "url": "resolver.dnsprivacy.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "resolver-dnsprivacy-org-uk-do-t",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -213,6 +221,8 @@
     "timeWeek": 9,
     "timeMonth": 9,
     "timeYear": 9,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-27": 0
+    }
   }
 ]
