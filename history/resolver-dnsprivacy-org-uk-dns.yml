@@ -1,7 +1,7 @@
 url: resolver.dnsprivacy.org.uk
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-27T08:20:24.033Z
+status: up
+code: 200
+responseTime: 7
+lastUpdated: 2025-01-27T08:25:19.831Z
 startTime: 2025-01-21T12:10:04.884Z
 generator: Upptime <https://github.com/upptime/upptime>
